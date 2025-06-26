@@ -1,3 +1,9 @@
+# Security Event Analysis Automation Tool 
+
+A comprehensive security event analysis dashboard with a web interface, built in Python. Detects and analyzes threats, visualizes risk levels over time, and logs all security events in your environment.
+
+---
+
 # Security Event Analysis Automation Tool (EN)
 
 A comprehensive security event analysis dashboard with a web interface, built in Python (Flask).  
